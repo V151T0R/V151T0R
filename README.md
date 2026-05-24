@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=CB4154&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Sourav+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=V151T0R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/V151T0R?label=Followers&style=social" alt="GitHub followers" />
-</p>
+
 
 <h2 align="center">🚀 About Me</h2>
 
