@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=5our4v&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/5our4v?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=V151T0R&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/V151T0R?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
