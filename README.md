@@ -17,7 +17,7 @@ A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learn
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 **`Tools`** 
-`Git` `Docker` `Jupyter` `VS Code` `Anaconda`
+`Git`  `Jupyter` `VS Code` `Anaconda`
 
 ---
 
