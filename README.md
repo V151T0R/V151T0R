@@ -23,12 +23,10 @@ A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learn
 
 ### 📊 ./metrics.sh
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V151T0R&theme=github_dark&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=V151T0R&theme=github_dark&show_icons=true&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=V151T0R&theme=github_dark&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
-
----
 
 ### 🔗 ./connect.sh
 
