@@ -5,7 +5,7 @@ A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learn
 
 ---
 
-### 💻 ./tech_stack.sh
+### 💻 ./tech_stack
 
 **`Languages & Web`** 
 `Python` `C` `SQL` `Django` `HTML5` `CSS3`
@@ -21,13 +21,13 @@ A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learn
 
 ---
 
-### 📊 ./metrics.sh
+### 📊 ./metrics
 
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=V151T0R&theme=github_dark&show_icons=true&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=V151T0R&theme=github_dark&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
-### 🔗 ./connect.sh
+### 🔗 ./connect
 
 [LinkedIn](https://www.linkedin.com/in/sour4v/) | [Email](mailto:sourav.mte@gmail.com) | [Facebook](https://www.facebook.com/5our4v) | [Instagram](https://www.instagram.com/sour4v_v/)
