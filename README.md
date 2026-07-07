@@ -1,35 +1,41 @@
 # visitor@github:~$ whoami
 
 Hi, I'm **Sourav** 👋 
-A Software Developer based in Dhaka, Bangladesh, specializing in  backend engineering.
+A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learning** and **Backend Engineering**.
 
 ---
 
-### 💻 ./tech_stack
+### tech_stack
 
-**`Languages & Web`** 
-`Python` | `C` | `SQL` | `Django` | `HTML5` | `CSS3`
+**`Languages & Web`**  
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 
-**`Machine Learning & AI`** 
-`TensorFlow` | `PyTorch` | `Keras` | `Scikit-learn` | `OpenCV`
+**`Machine Learning & AI`**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white)
 
-**`Data Science`** 
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
+**`Data Science`**  
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=white)
 
-**`Tools`** 
-`Git` | `Linux` | `Jupyter` | `VS Code` | `Anaconda`
+**`Tools`**  
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
 
 ---
 
-### 📊 ./metrics
+
+
+### connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=V151T0R&theme=github_dark&bg_color=000000&show_icons=true&hide_border=true&hide_rank=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V151T0R&theme=github_dark&background=000000&hide_border=true" height="150" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/sour4v/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sourav.mte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/5our4v">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/sour4v_v/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
-
----
-
-### 🔗 ./connect
-
-[LinkedIn](https://www.linkedin.com/in/sour4v/) • [Email](mailto:sourav.mte@gmail.com) • [Facebook](https://www.facebook.com/5our4v) • [Instagram](https://www.instagram.com/sour4v_v/)
