@@ -1,7 +1,5 @@
 # visitor@github:~$ whoami
 
-Hi, I'm **Sourav** 👋 
-A Software Developer based in Dhaka, Bangladesh, specializing in **Machine Learning** and **Backend Engineering**.
 
 ---
 
